@@ -3,6 +3,8 @@ title: Manage Collections
 description: Create and edit Collections.
 sidebar_position: 40
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 Collections are groupings representing subdivisions of a [Collection category](/docs/software-engineering-insights/sei-projects-and-collections/manage-collection-cat). By default, each Collection category has one root, or **All**, Collection. For example, the **Teams** category automatically has an **All Teams** Collection. Under the root Collection, you can create any number of Collections and Collection levels.
 
@@ -147,3 +149,15 @@ To view or edit a Collection's Insights associations:
 ![](./static/collection-insight.png)
 
 5. Select **Save**.
+
+  <iframe 
+    src="https://app.tango.us/app/embed/e903f088-a762-4809-b20d-edfc246e3016" 
+    title="Create a Asset Based Collection" 
+    style={{minHeight:'640px'}}
+    width="100%" 
+    height="100%" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    frameborder="0" 
+    webkitallowfullscreen="webkitallowfullscreen" 
+    mozallowfullscreen="mozallowfullscreen" 
+    allowfullscreen="allowfullscreen"></iframe>
